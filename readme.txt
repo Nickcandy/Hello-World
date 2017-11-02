@@ -1,1 +1,1 @@
-Here is the conflict!
+Let's see how to solve the conflict
