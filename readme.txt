@@ -1,1 +1,1 @@
-another txt
+Here is the conflict!
